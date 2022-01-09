@@ -1,8 +1,3 @@
-#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
-
-### Editora: Helen Fernanda ### www.meutedio.com.br ## Contato e Pix: meutedio@mail.com ############
-
-####### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
-
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://imgur.com/RaSZCuy.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
